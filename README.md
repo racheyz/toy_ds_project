@@ -1,2 +1,2 @@
 # toy_ds_project
-DSCI version control practice
+Project creation date: September 29, 2025
